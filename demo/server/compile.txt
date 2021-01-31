@@ -1,0 +1,1 @@
+javac JavaServer.java FuncThread.java TranThread.java PredictThread.java Stats.java
